@@ -9,6 +9,10 @@
           "name": "Cyber Resilience Team",
           "email": "dev@cyberrest.io"
         }
-      ]
+      ],
+    "autoload": {
+        "psr-4": {}
+    },
+    "prefer-stable": true
 
 }
