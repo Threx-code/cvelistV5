@@ -1,0 +1,14 @@
+{
+    "name": "cvelist/v5",
+    "version": "1.0.0",
+    "description": "A list of CVEs identified security vulnerabilities",
+    "keywords": ["cve", "security", "vulnerability", "cybersecurity", "penetration testing"],
+    "license": "MIT",
+    "author": [
+        {
+          "name": "Cyber Resilience Team",
+          "email": "dev@cyberrest.io"
+        }
+      ]
+
+}
